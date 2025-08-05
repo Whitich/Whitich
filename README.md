@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Merth!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Passionate+Coder+%F0%9F%92%BB;Innovation+Enthusiast+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Merhaba%2C+Ben+Whitich!+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Passionate+Coder+%F0%9F%92%BB;Innovation+Enthusiast+%F0%9F%8E%89" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 **Hakkımda**
 
-Merhaba! Ben **Merth**, tutkulu bir **Full Stack Developer**'ım. Modern web teknolojileri konusunda uzmanlaşmış, sürekli öğrenmeye açık ve yaratıcı çözümler üretmeyi seven bir yazılım geliştiricisiyim.
+Merhaba! Ben **Whitich**, tutkulu bir **Full Stack Developer**'ım. Modern web teknolojileri konusunda uzmanlaşmış, sürekli öğrenmeye açık ve yaratıcı çözümler üretmeyi seven bir yazılım geliştiricisiyim.
 
 ### 🎯 **Uzmanlık Alanlarım**
 
@@ -54,12 +54,12 @@ Merhaba! Ben **Merth**, tutkulu bir **Full Stack Developer**'ım. Modern web tek
 ## 📊 **GitHub İstatistiklerim**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=merth&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=merth&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Whitich&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Whitich&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&currStreakLabel=6366F1&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=merth&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Whitich&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -67,7 +67,7 @@ Merhaba! Ben **Merth**, tutkulu bir **Full Stack Developer**'ım. Modern web tek
 ## 🏆 **Başarılarım**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=merth&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Whitich&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -75,7 +75,7 @@ Merhaba! Ben **Merth**, tutkulu bir **Full Stack Developer**'ım. Modern web tek
 ## 📈 **En Çok Kullandığım Diller**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=merth&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitich&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 ---
@@ -83,11 +83,11 @@ Merhaba! Ben **Merth**, tutkulu bir **Full Stack Developer**'ım. Modern web tek
 ## 🚀 **Son Projelerim**
 
 <div align="center">
-  <a href="https://github.com/merth/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=merth&repo=awesome-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Project 1" />
+  <a href="https://github.com/Whitich/awesome-project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=awesome-project-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Project 1" />
   </a>
-  <a href="https://github.com/merth/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=merth&repo=awesome-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Project 2" />
+  <a href="https://github.com/Whitich/awesome-project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=awesome-project-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Project 2" />
   </a>
 </div>
 
@@ -123,19 +123,19 @@ Merhaba! Ben **Merth**, tutkulu bir **Full Stack Developer**'ım. Modern web tek
 ## 📞 **İletişim**
 
 <div align="center">
-  <a href="https://github.com/merth">
+  <a href="https://github.com/Whitich">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:merth@example.com">
+  <a href="mailto:Whitich@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/merth">
+  <a href="https://linkedin.com/in/Whitich">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/merth">
+  <a href="https://twitter.com/Whitich">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://instagram.com/merth">
+  <a href="https://instagram.com/Whitich">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
@@ -152,7 +152,7 @@ Merhaba! Ben **Merth**, tutkulu bir **Full Stack Developer**'ım. Modern web tek
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=merth&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Whitich&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
   
   <br />
   
@@ -162,5 +162,5 @@ Merhaba! Ben **Merth**, tutkulu bir **Full Stack Developer**'ım. Modern web tek
 ---
 
 <div align="center">
-  <sub>Made with ❤️ and ☕ by <a href="https://github.com/merth">Merth</a></sub>
+  <sub>Made with ❤️ and ☕ by <a href="https://github.com/Whitich">Whitich</a></sub>
 </div>
