@@ -4,11 +4,11 @@
 
   # Mert Harmankaşı
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Merhaba,+ben+Mert;Python+%26+C%23+Developer;Oyun+geli%C5%9Ftirmeyi+seviyorum" alt="Merhaba, ben Mert - Python & C# Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1600&color=38BDF8&center=true&vCenter=true&width=560&lines=Kod+yazmak+bir+sanatt%C4%B1r;G%C3%BCzel+kod%2C+sessiz+konu%C5%9Fur;Her+sat%C4%B1r+bir+karar" alt="Kod yazmak bir sanattır" />
 
   <br /><br />
 
-  <img src="https://skillicons.dev/icons?i=python,csharp,c,dotnet,html,css,vscode,git" alt="Python, C#, C, .NET, HTML, CSS, VS Code, Git" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,flutter,unity,python,c,git" alt="C#, .NET, HTML, CSS, JavaScript, Flutter, Unity, Python, C, Git" />
 
 </div>
 
