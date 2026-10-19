@@ -36,7 +36,7 @@
 ## 📊 İstatistikler
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whitich&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8" alt="Whitich GitHub istatistikleri" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Whitich&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8" alt="Whitich GitHub istatistikleri" height="165" />
   <img src="https://streak-stats.demolab.com/?user=Whitich&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&currStreakLabel=38BDF8&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Whitich GitHub streak" height="165" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitich&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="En çok kullanılan diller" />
