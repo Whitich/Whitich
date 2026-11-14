@@ -16,37 +16,48 @@
 
 ## 📌 Öne Çıkan Projeler
 
-<div align="center">
-    <a href="https://github.com/Whitich/Notra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=Notra&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="Notra" />
-  </a>
-  <a href="https://github.com/Whitich/DiskMap">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=DiskMap&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="DiskMap" />
-  </a>
-</div>
+<table>
+<tr>
+<td width="50%" align="center">
+<a href="https://github.com/Whitich/Notra"><img src="assets/notra.png" width="88" alt="Notra logosu" /></a>
+<h3><a href="https://github.com/Whitich/Notra">Notra</a></h3>
+<p>Windows için yerel öncelikli not, çizim ve tablo uygulaması.</p>
+<p><strong>Python · SQLite · pywebview</strong></p>
+<p><a href="https://github.com/Whitich/Notra/releases/latest">İndir</a> · <a href="https://github.com/Whitich/Notra">Kaynak kod</a></p>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/Whitich/DiskMap"><img src="assets/diskmap.png" width="88" alt="DiskMap logosu" /></a>
+<h3><a href="https://github.com/Whitich/DiskMap">DiskMap</a></h3>
+<p>Disk kullanımını görselleştir; büyük ve kopya dosyaları bul.</p>
+<p><strong>C# · .NET · WPF</strong></p>
+<p><a href="https://github.com/Whitich/DiskMap/releases/latest">İndir</a> · <a href="https://github.com/Whitich/DiskMap">Kaynak kod</a></p>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 İstatistikler
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whitich&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9&ring_color=38BDF8" alt="Whitich GitHub istatistikleri" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=Whitich&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&currStreakLabel=38BDF8&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Whitich GitHub streak" height="165" />
-  <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whitich&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="En çok kullanılan diller" />
-</div>
+![GitHub istatistikleri](assets/stats.svg)
+
 
 ---
 
 ## 🎯 Başarımlar
 
-<div align="center">
-  <a href="https://github.com/Whitich?tab=achievements">
-    <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="95" alt="Pull Shark" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="95" alt="Quickdraw" />
-  </a>
-</div>
+<p align="center">
+<a href="https://github.com/Whitich?tab=achievements">
+<!-- ACHIEVEMENTS:START -->
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="88" alt="YOLO" />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="88" alt="Pull Shark" />
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="88" alt="Quickdraw" />
+<!-- ACHIEVEMENTS:END -->
+</a>
+</p>
+
+<p align="center"><a href="https://github.com/Whitich?tab=achievements">Güncel başarımlar ve seviyeler →</a></p>
+
 
 ---
 
