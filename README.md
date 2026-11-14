@@ -17,17 +17,11 @@
 ## 📌 Öne Çıkan Projeler
 
 <div align="center">
-  <a href="https://github.com/Whitich/arena-savasi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=arena-savasi&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="arena-savasi" />
+    <a href="https://github.com/Whitich/Notra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=Notra&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="Notra" />
   </a>
-  <a href="https://github.com/Whitich/Chess">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=Chess&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="Chess" />
-  </a>
-  <a href="https://github.com/Whitich/Blackjack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=Blackjack&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="Blackjack" />
-  </a>
-  <a href="https://github.com/Whitich/imgur-generator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=imgur-generator&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="imgur-generator" />
+  <a href="https://github.com/Whitich/DiskMap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Whitich&repo=DiskMap&theme=radical&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=38BDF8" alt="DiskMap" />
   </a>
 </div>
 
