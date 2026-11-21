@@ -1,7 +1,7 @@
 import json
 import os
 import re
-from datetime import datetime, timezone
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 from urllib.request import Request, urlopen
 
@@ -26,9 +26,9 @@ while True:
         break
     page += 1
 own = [repo for repo in repos if not repo["fork"] and not repo["private"]]
-metrics = [(len(own), "Açık kaynak depo"), (sum(r["stargazers_count"] for r in own), "Projelerde yıldız"),
+metrics = [(len(own), "Herkese açık depo"), (sum(r["stargazers_count"] for r in own), "Projelerde yıldız"),
            (user["followers"], "Takipçi"), (len({r["language"] for r in own if r["language"]}), "Ana dil / teknoloji")]
-stamp = datetime.now(timezone.utc).strftime("%d.%m.%Y")
+stamp = datetime.now(timezone(timedelta(hours=3))).strftime("%d.%m.%Y")
 svg = ['<svg xmlns="http://www.w3.org/2000/svg" width="880" height="190" viewBox="0 0 880 190" role="img" aria-label="GitHub public profile statistics">',
        '<rect x="1" y="1" width="878" height="188" rx="18" fill="#0d1117" stroke="#30363d"/>',
        '<text x="28" y="35" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">GITHUB / HERKESE AÇIK ÇALIŞMALAR</text>']
@@ -36,7 +36,7 @@ for index, (value, label) in enumerate(metrics):
     x = 28 + index * 218
     svg.append(f'<text x="{x}" y="95" fill="#58a6ff" font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="40">{value}</text>')
     svg.append(f'<text x="{x}" y="125" fill="#c9d1d9" font-family="Segoe UI,Arial,sans-serif" font-size="15">{label}</text>')
-svg.append(f'<text x="28" y="166" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="11">GitHub API · {stamp} · Özel depolar dahil değildir. Dil sayısı, depoların ana dillerini esas alır.</text></svg>')
+svg.append(f'<text x="28" y="166" fill="#8b949e" font-family="Segoe UI,Arial,sans-serif" font-size="11">GitHub API · {stamp} · Özel depolar ve forklar hariçtir. Tarih: Türkiye. Dil sayısı, depoların ana dilleridir.</text></svg>')
 (ROOT / "assets/stats.svg").write_text("\n".join(svg), encoding="utf-8")
 
 html = fetch("https://github.com/Whitich")
